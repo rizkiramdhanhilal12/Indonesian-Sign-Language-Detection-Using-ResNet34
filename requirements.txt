@@ -1,0 +1,10 @@
+fastai
+torch
+pandas
+numpy
+glob2
+scikit-learn
+seaborn
+gradio
+opencv-python
+timm
